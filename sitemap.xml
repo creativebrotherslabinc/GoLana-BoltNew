@@ -13,7 +13,6 @@
   <url><loc>https://golana.online/developer-tools</loc></url>
   <url><loc>https://golana.online/time-tools</loc></url>
   <url><loc>https://golana.online/games</loc></url>
-  <url><loc>https://golana.online/smart-games</loc></url>
   <url><loc>https://golana.online/whatsapp-tools</loc></url>
   <url><loc>https://golana.online/hr-tools</loc></url>
   <url><loc>https://golana.online/marketing-tools</loc></url>
@@ -32,6 +31,12 @@
   <url><loc>https://golana.online/tool/txt-to-pdf</loc></url>
   <url><loc>https://golana.online/tool/images-to-pdf</loc></url>
   <url><loc>https://golana.online/tool/pdf-to-images</loc></url>
+  <url><loc>https://golana.online/tool/pdf-to-excel</loc></url>
+  <url><loc>https://golana.online/tool/pdf-extract-pages</loc></url>
+  <url><loc>https://golana.online/tool/pdf-rotator</loc></url>
+  <url><loc>https://golana.online/tool/pdf-redactor</loc></url>
+  <url><loc>https://golana.online/tool/pdf-metadata-cleaner</loc></url>
+  <url><loc>https://golana.online/tool/pdf-smart-splitter</loc></url>
   <url><loc>https://golana.online/tool/image-compressor</loc></url>
   <url><loc>https://golana.online/tool/image-converter</loc></url>
   <url><loc>https://golana.online/tool/video-compressor</loc></url>
@@ -125,6 +130,8 @@
   <url><loc>https://golana.online/tool/brick-breaker</loc></url>
   <url><loc>https://golana.online/tool/aim-trainer</loc></url>
   <url><loc>https://golana.online/tool/reaction-time</loc></url>
+  <url><loc>https://golana.online/tool/dungeon-puzzle</loc></url>
+  <url><loc>https://golana.online/tool/hexa-merge-kingdom</loc></url>
   <url><loc>https://golana.online/tool/word-scramble</loc></url>
   <url><loc>https://golana.online/tool/mini-sudoku</loc></url>
   <url><loc>https://golana.online/tool/memory-cards</loc></url>
