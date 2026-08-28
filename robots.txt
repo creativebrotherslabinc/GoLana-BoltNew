@@ -1,3 +1,47 @@
+# ================================
+#User-agent: *
+#Allow: /
+#Sitemap: https://golana.online/sitemap.xml
+# ================================removing the bolt new robot.xtx
+
+# ================================
+# Treasure Quest / Golana.online
+# Full robots.txt configuration
+# ================================
+
+# Allow all search engines to crawl the entire site
 User-agent: *
 Allow: /
+
+# -------------------------------
+# Google-specific crawlers
+# -------------------------------
+
+# Google AdsBot (AdSense crawler)
+User-agent: AdsBot-Google
+Allow: /
+
+# Google Mobile crawler
+User-agent: Googlebot-Mobile
+Allow: /
+
+# Google Images crawler
+User-agent: Googlebot-Image
+Allow: /
+
+# Google News crawler (optional, safe)
+User-agent: Googlebot-News
+Allow: /
+
+# -------------------------------
+# Sitemap declaration
+# -------------------------------
 Sitemap: https://golana.online/sitemap.xml
+
+# -------------------------------
+# SPA / React / GitHub Pages notes
+# -------------------------------
+# - All JS/CSS must be crawlable
+# - No disallow rules for /static/, /assets/, /js/, /css/
+# - GitHub Pages handles routing fallback
+# - Google can render React pages normally
