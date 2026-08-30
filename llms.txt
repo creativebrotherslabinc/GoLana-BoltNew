@@ -74,6 +74,11 @@ Go LANA (https://golana.online) is a free, browser-based library of online tools
 - Favicon Generator (https://golana.online/tool/favicon-generator): Create a favicon from text.
 - GIF Maker (https://golana.online/tool/gif-maker): Combine images into an animated GIF.
 - Meme Generator (https://golana.online/tool/meme-generator): Add top and bottom text to images.
+- Background Remover (https://golana.online/tool/background-remover): Remove solid-color backgrounds from images.
+- Color Changer (https://golana.online/tool/color-changer): Adjust hue, saturation, and lightness of images.
+- Image Sharpener (https://golana.online/tool/image-sharpener): Sharpen blurry images with adjustable intensity.
+- Image Blur & Pixelate (https://golana.online/tool/image-blur): Blur or pixelate parts of an image.
+- Image Cropper (https://golana.online/tool/image-cropper): Crop images to any aspect ratio or freeform area.
 - Color Picker (https://golana.online/tool/color-picker): Pick colors and copy formats.
 
 ## Calculators & Finance Tools
@@ -86,6 +91,16 @@ Go LANA (https://golana.online) is a free, browser-based library of online tools
 - Salary Tax Calc (https://golana.online/tool/salary-tax): Estimate take-home pay after tax.
 - ROI Calculator (https://golana.online/tool/roi): Measure return on investment.
 - Percentage Calculator (https://golana.online/tool/percentage): Common percentage operations.
+- Inflation Calculator (https://golana.online/tool/inflation-calculator): Calculate inflation-adjusted value across years and countries.
+- Retirement Calculator (https://golana.online/tool/retirement-calculator): Project retirement savings with contributions and inflation.
+- Credit Card Payoff Calculator (https://golana.online/tool/credit-card-payoff): Estimate credit card payoff time and interest.
+- Debt Snowball Calculator (https://golana.online/tool/debt-snowball): Plan a debt snowball payoff schedule.
+- Compound Interest with Contributions (https://golana.online/tool/compound-interest): Project compound growth with recurring deposits.
+- Cost of Living Comparator (https://golana.online/tool/cost-of-living): Compare purchasing power between countries and years.
+- Salary Inflation Adjuster (https://golana.online/tool/salary-inflation): Adjust a historical salary for inflation.
+- Hourly Salary Converter (https://golana.online/tool/hourly-salary): Convert an hourly wage into annual, monthly, and weekly pay.
+- Car Loan Affordability Calculator (https://golana.online/tool/car-loan-affordability): Estimate car loan payments and inflation-adjusted price.
+- GPA Calculator (https://golana.online/tool/gpa-calculator): Calculate weighted grade point average by course credits.
 
 ## Everyday Utilities
 
@@ -128,7 +143,6 @@ Go LANA (https://golana.online) is a free, browser-based library of online tools
 - Base64 Tool (https://golana.online/tool/base64): Encode and decode Base64 text.
 - Code Minifier (https://golana.online/tool/code-minifier): Minify JS and CSS quickly.
 - Regex Tester (https://golana.online/tool/regex-tester): Test regex patterns live.
-- Color Picker (https://golana.online/tool/color-picker): Pick colors and copy formats.
 - Text Diff Checker (https://golana.online/tool/diff-checker): Compare two pieces of text.
 - UUID Generator (https://golana.online/tool/uuid-generator): Generate v4 and v7 UUIDs.
 - Markdown Editor (https://golana.online/tool/markdown-editor): Write and preview markdown live.
