@@ -253,3 +253,15 @@ Apps:
 - https://golana.online/tool/findingmyfood
 - https://golana.online/tool/resume-genie
 
+Crypto Tools:
+- https://golana.online/tool/crypto-portfolio
+- https://golana.online/tool/crypto-watchlist
+- https://golana.online/tool/crypto-dca
+- https://golana.online/tool/crypto-staking
+- https://golana.online/tool/crypto-mining
+- https://golana.online/tool/crypto-profit
+- https://golana.online/tool/crypto-converter
+- https://golana.online/tool/crypto-live
+- https://golana.online/tool/crypto-chart
+- https://golana.online/tool/crypto-inflation
+

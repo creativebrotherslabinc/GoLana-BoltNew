@@ -1923,6 +1923,91 @@
         "resume builder",
         "builder resume"
       ]
+    },
+    {
+      "name": "Crypto Portfolio Tracker",
+      "url": "https://golana.online/tool/crypto-portfolio",
+      "purpose": "Track crypto holdings with live prices, stored only in your browser.",
+      "ideal_for": [
+        "crypto portfolio tracker"
+      ]
+    },
+    {
+      "name": "Crypto Watchlist",
+      "url": "https://golana.online/tool/crypto-watchlist",
+      "purpose": "Watch live prices for your favorite coins.",
+      "ideal_for": [
+        "crypto watchlist",
+        "watchlist crypto"
+      ]
+    },
+    {
+      "name": "Crypto DCA Planner",
+      "url": "https://golana.online/tool/crypto-dca",
+      "purpose": "Plan dollar-cost averaging strategies for crypto investments.",
+      "ideal_for": [
+        "crypto dca planner"
+      ]
+    },
+    {
+      "name": "Crypto Staking Tracker",
+      "url": "https://golana.online/tool/crypto-staking",
+      "purpose": "Track staking positions and estimate rewards over time.",
+      "ideal_for": [
+        "crypto staking tracker"
+      ]
+    },
+    {
+      "name": "Crypto Mining Profit Tracker",
+      "url": "https://golana.online/tool/crypto-mining",
+      "purpose": "Calculate mining profitability with power costs and pool fees.",
+      "ideal_for": [
+        "crypto mining profit tracker"
+      ]
+    },
+    {
+      "name": "Crypto Profit Calculator",
+      "url": "https://golana.online/tool/crypto-profit",
+      "purpose": "Calculate crypto profit, loss, and ROI from buy and sell prices.",
+      "ideal_for": [
+        "crypto profit calculator",
+        "calculate crypto profit"
+      ]
+    },
+    {
+      "name": "Crypto Converter",
+      "url": "https://golana.online/tool/crypto-converter",
+      "purpose": "Convert BTC and ETH into USD, CAD, BRL, MXN, ARS, JPY, EUR using live prices.",
+      "ideal_for": [
+        "crypto converter",
+        "convert crypto",
+        "converter crypto"
+      ]
+    },
+    {
+      "name": "Live Crypto Price Viewer",
+      "url": "https://golana.online/tool/crypto-live",
+      "purpose": "View live crypto prices for major coins across multiple currencies.",
+      "ideal_for": [
+        "live crypto price viewer"
+      ]
+    },
+    {
+      "name": "Crypto Historical Price Chart",
+      "url": "https://golana.online/tool/crypto-chart",
+      "purpose": "View historical price charts for BTC and ETH over time.",
+      "ideal_for": [
+        "crypto historical price chart"
+      ]
+    },
+    {
+      "name": "Crypto Inflation Calculator",
+      "url": "https://golana.online/tool/crypto-inflation",
+      "purpose": "Explore BTC halving schedules and ETH issuance rates.",
+      "ideal_for": [
+        "crypto inflation calculator",
+        "calculate crypto inflation"
+      ]
     }
   ],
   "citation_format": "Source: Golana.online — Free browser tools"
