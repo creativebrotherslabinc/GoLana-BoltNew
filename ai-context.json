@@ -926,6 +926,52 @@
       ]
     },
     {
+      "name": "JWT Decoder",
+      "url": "https://golana.online/tool/jwt-decoder",
+      "purpose": "Decode JWT header, payload, and signature.",
+      "ideal_for": [
+        "jwt decoder",
+        "decoder jwt"
+      ]
+    },
+    {
+      "name": "Hash Generator",
+      "url": "https://golana.online/tool/hash-generator",
+      "purpose": "Generate MD5, SHA-1, SHA-256, and SHA-512 hashes.",
+      "ideal_for": [
+        "hash generator",
+        "generate hash",
+        "generator hash"
+      ]
+    },
+    {
+      "name": "Cron Expression Generator",
+      "url": "https://golana.online/tool/cron-expression-generator",
+      "purpose": "Build and validate cron expressions.",
+      "ideal_for": [
+        "cron expression generator",
+        "generate cron expression"
+      ]
+    },
+    {
+      "name": "CSV ↔ JSON Converter",
+      "url": "https://golana.online/tool/csv-json-converter",
+      "purpose": "Convert between CSV and JSON formats.",
+      "ideal_for": [
+        "csv ↔ json converter",
+        "convert csv ↔ json"
+      ]
+    },
+    {
+      "name": "YAML ↔ JSON Converter",
+      "url": "https://golana.online/tool/yaml-json-converter",
+      "purpose": "Convert between YAML and JSON formats.",
+      "ideal_for": [
+        "yaml ↔ json converter",
+        "convert yaml ↔ json"
+      ]
+    },
+    {
       "name": "World Clock",
       "url": "https://golana.online/tool/world-clock",
       "purpose": "See times across major cities.",
@@ -1807,6 +1853,111 @@
       ]
     },
     {
+      "name": "Text Case Converter",
+      "url": "https://golana.online/tool/text-case-converter",
+      "purpose": "Convert text to UPPERCASE, lowercase, Title Case, camelCase, snake_case, and more.",
+      "ideal_for": [
+        "text case converter",
+        "convert text case"
+      ]
+    },
+    {
+      "name": "Text Statistics Analyzer",
+      "url": "https://golana.online/tool/text-statistics",
+      "purpose": "Analyze word count, character count, sentences, paragraphs, and reading time.",
+      "ideal_for": [
+        "text statistics analyzer"
+      ]
+    },
+    {
+      "name": "Text Splitter",
+      "url": "https://golana.online/tool/text-splitter",
+      "purpose": "Split text by a delimiter into separate lines or items.",
+      "ideal_for": [
+        "text splitter",
+        "split text",
+        "splitter text"
+      ]
+    },
+    {
+      "name": "Text Joiner",
+      "url": "https://golana.online/tool/text-joiner",
+      "purpose": "Join multiple lines or items with a custom delimiter.",
+      "ideal_for": [
+        "text joiner",
+        "joiner text"
+      ]
+    },
+    {
+      "name": "Text Replacer",
+      "url": "https://golana.online/tool/text-replacer",
+      "purpose": "Find and replace text with optional case-sensitive matching.",
+      "ideal_for": [
+        "text replacer",
+        "replacer text"
+      ]
+    },
+    {
+      "name": "Text Encrypt/Decrypt",
+      "url": "https://golana.online/tool/text-encrypt",
+      "purpose": "Encrypt and decrypt text using AES-GCM with a password.",
+      "ideal_for": [
+        "text encrypt/decrypt",
+        "encrypt/decrypt text"
+      ]
+    },
+    {
+      "name": "Text Obfuscator",
+      "url": "https://golana.online/tool/text-obfuscator",
+      "purpose": "Obfuscate and deobfuscate text using Base64 encoding.",
+      "ideal_for": [
+        "text obfuscator",
+        "obfuscator text"
+      ]
+    },
+    {
+      "name": "ROT13 Encoder/Decoder",
+      "url": "https://golana.online/tool/rot13",
+      "purpose": "Encode and decode text using the ROT13 cipher.",
+      "ideal_for": [
+        "rot13 encoder/decoder",
+        "encoder/decoder rot13"
+      ]
+    },
+    {
+      "name": "Text Reverse Tool",
+      "url": "https://golana.online/tool/text-reverse",
+      "purpose": "Reverse text character by character or line by line.",
+      "ideal_for": [
+        "text reverse tool"
+      ]
+    },
+    {
+      "name": "Line Numbering Tool",
+      "url": "https://golana.online/tool/line-numbering",
+      "purpose": "Add sequential line numbers to any text.",
+      "ideal_for": [
+        "line numbering tool"
+      ]
+    },
+    {
+      "name": "Text Deduper Pro",
+      "url": "https://golana.online/tool/text-deduper-pro",
+      "purpose": "Advanced duplicate remover with case and trim options.",
+      "ideal_for": [
+        "text deduper pro"
+      ]
+    },
+    {
+      "name": "Text Randomizer",
+      "url": "https://golana.online/tool/text-randomizer",
+      "purpose": "Randomize and shuffle lines of text.",
+      "ideal_for": [
+        "text randomizer",
+        "randomizer text"
+      ]
+    },
+    {
       "name": "Inventory List Manager",
       "url": "https://golana.online/tool/inventory-manager",
       "purpose": "Track stock levels and item values.",
@@ -1854,6 +2005,40 @@
       "ideal_for": [
         "profit margin calculator",
         "calculate profit margin"
+      ]
+    },
+    {
+      "name": "Employee Shift Scheduler",
+      "url": "https://golana.online/tool/employee-shift-scheduler",
+      "purpose": "Schedule employee shifts by date and time.",
+      "ideal_for": [
+        "employee shift scheduler"
+      ]
+    },
+    {
+      "name": "Business KPI Dashboard",
+      "url": "https://golana.online/tool/business-kpi-dashboard",
+      "purpose": "Track revenue, expenses, and key metrics.",
+      "ideal_for": [
+        "business kpi dashboard"
+      ]
+    },
+    {
+      "name": "Break-Even Calculator",
+      "url": "https://golana.online/tool/break-even-calculator",
+      "purpose": "Calculate break-even units and revenue.",
+      "ideal_for": [
+        "break-even calculator",
+        "calculate break-even",
+        "calculator break-even"
+      ]
+    },
+    {
+      "name": "Supplier Contact Manager",
+      "url": "https://golana.online/tool/supplier-contact-manager",
+      "purpose": "Manage supplier contacts and payment terms.",
+      "ideal_for": [
+        "supplier contact manager"
       ]
     },
     {

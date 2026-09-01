@@ -134,6 +134,11 @@
   <url><loc>https://golana.online/tool/uuid-generator</loc></url>
   <url><loc>https://golana.online/tool/markdown-editor</loc></url>
   <url><loc>https://golana.online/tool/code-beautifier</loc></url>
+  <url><loc>https://golana.online/tool/jwt-decoder</loc></url>
+  <url><loc>https://golana.online/tool/hash-generator</loc></url>
+  <url><loc>https://golana.online/tool/cron-expression-generator</loc></url>
+  <url><loc>https://golana.online/tool/csv-json-converter</loc></url>
+  <url><loc>https://golana.online/tool/yaml-json-converter</loc></url>
   <url><loc>https://golana.online/tool/world-clock</loc></url>
   <url><loc>https://golana.online/tool/stopwatch</loc></url>
   <url><loc>https://golana.online/tool/countdown</loc></url>
@@ -237,12 +242,28 @@
   <url><loc>https://golana.online/tool/slug-generator</loc></url>
   <url><loc>https://golana.online/tool/text-sorter</loc></url>
   <url><loc>https://golana.online/tool/duplicate-line-remover</loc></url>
+  <url><loc>https://golana.online/tool/text-case-converter</loc></url>
+  <url><loc>https://golana.online/tool/text-statistics</loc></url>
+  <url><loc>https://golana.online/tool/text-splitter</loc></url>
+  <url><loc>https://golana.online/tool/text-joiner</loc></url>
+  <url><loc>https://golana.online/tool/text-replacer</loc></url>
+  <url><loc>https://golana.online/tool/text-encrypt</loc></url>
+  <url><loc>https://golana.online/tool/text-obfuscator</loc></url>
+  <url><loc>https://golana.online/tool/rot13</loc></url>
+  <url><loc>https://golana.online/tool/text-reverse</loc></url>
+  <url><loc>https://golana.online/tool/line-numbering</loc></url>
+  <url><loc>https://golana.online/tool/text-deduper-pro</loc></url>
+  <url><loc>https://golana.online/tool/text-randomizer</loc></url>
   <url><loc>https://golana.online/tool/inventory-manager</loc></url>
   <url><loc>https://golana.online/tool/simple-crm</loc></url>
   <url><loc>https://golana.online/tool/client-follow-up-tracker</loc></url>
   <url><loc>https://golana.online/tool/order-status-tracker</loc></url>
   <url><loc>https://golana.online/tool/business-expense-tracker</loc></url>
   <url><loc>https://golana.online/tool/profit-margin-calculator</loc></url>
+  <url><loc>https://golana.online/tool/employee-shift-scheduler</loc></url>
+  <url><loc>https://golana.online/tool/business-kpi-dashboard</loc></url>
+  <url><loc>https://golana.online/tool/break-even-calculator</loc></url>
+  <url><loc>https://golana.online/tool/supplier-contact-manager</loc></url>
   <url><loc>https://golana.online/tool/chore-chart-generator</loc></url>
   <url><loc>https://golana.online/tool/reward-points-tracker</loc></url>
   <url><loc>https://golana.online/tool/bedtime-routine-checklist</loc></url>

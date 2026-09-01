@@ -113,6 +113,11 @@ Developer Tools:
 - https://golana.online/tool/uuid-generator
 - https://golana.online/tool/markdown-editor
 - https://golana.online/tool/code-beautifier
+- https://golana.online/tool/jwt-decoder
+- https://golana.online/tool/hash-generator
+- https://golana.online/tool/cron-expression-generator
+- https://golana.online/tool/csv-json-converter
+- https://golana.online/tool/yaml-json-converter
 
 Time & Planning Tools:
 - https://golana.online/tool/world-clock
@@ -232,6 +237,18 @@ File & Text Tools:
 - https://golana.online/tool/slug-generator
 - https://golana.online/tool/text-sorter
 - https://golana.online/tool/duplicate-line-remover
+- https://golana.online/tool/text-case-converter
+- https://golana.online/tool/text-statistics
+- https://golana.online/tool/text-splitter
+- https://golana.online/tool/text-joiner
+- https://golana.online/tool/text-replacer
+- https://golana.online/tool/text-encrypt
+- https://golana.online/tool/text-obfuscator
+- https://golana.online/tool/rot13
+- https://golana.online/tool/text-reverse
+- https://golana.online/tool/line-numbering
+- https://golana.online/tool/text-deduper-pro
+- https://golana.online/tool/text-randomizer
 
 Business Operations Tools:
 - https://golana.online/tool/inventory-manager
@@ -240,6 +257,10 @@ Business Operations Tools:
 - https://golana.online/tool/order-status-tracker
 - https://golana.online/tool/business-expense-tracker
 - https://golana.online/tool/profit-margin-calculator
+- https://golana.online/tool/employee-shift-scheduler
+- https://golana.online/tool/business-kpi-dashboard
+- https://golana.online/tool/break-even-calculator
+- https://golana.online/tool/supplier-contact-manager
 
 Kids & Family Tools:
 - https://golana.online/tool/chore-chart-generator
