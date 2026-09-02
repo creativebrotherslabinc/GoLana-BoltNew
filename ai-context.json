@@ -240,6 +240,55 @@
       ]
     },
     {
+      "name": "PDF Page Size Normalizer",
+      "url": "https://golana.online/tool/pdf-page-size-normalizer",
+      "purpose": "Convert all PDF pages to a uniform size like A4 or Letter.",
+      "ideal_for": [
+        "pdf page size normalizer"
+      ]
+    },
+    {
+      "name": "PDF Margin Remover",
+      "url": "https://golana.online/tool/pdf-margin-remover",
+      "purpose": "Auto-detect and remove white margins from PDF pages.",
+      "ideal_for": [
+        "pdf margin remover"
+      ]
+    },
+    {
+      "name": "PDF Table Extractor",
+      "url": "https://golana.online/tool/pdf-table-extractor",
+      "purpose": "Extract tables from PDF pages into CSV or XLSX.",
+      "ideal_for": [
+        "pdf table extractor"
+      ]
+    },
+    {
+      "name": "PDF OCR Extractor",
+      "url": "https://golana.online/tool/pdf-ocr-extractor",
+      "purpose": "Extract text from scanned PDFs using browser-based OCR.",
+      "ideal_for": [
+        "pdf ocr extractor"
+      ]
+    },
+    {
+      "name": "PDF Signature Verifier",
+      "url": "https://golana.online/tool/pdf-signature-verifier",
+      "purpose": "Verify digital signatures and certificate details in a PDF.",
+      "ideal_for": [
+        "pdf signature verifier"
+      ]
+    },
+    {
+      "name": "PDF Compare",
+      "url": "https://golana.online/tool/pdf-compare",
+      "purpose": "Compare two PDFs side-by-side and highlight differences.",
+      "ideal_for": [
+        "pdf compare",
+        "compare pdf"
+      ]
+    },
+    {
       "name": "Image Compressor",
       "url": "https://golana.online/tool/image-compressor",
       "purpose": "Shrink image files with quality control.",
@@ -413,6 +462,56 @@
       "ideal_for": [
         "image cropper",
         "cropper image"
+      ]
+    },
+    {
+      "name": "Image Background Blur",
+      "url": "https://golana.online/tool/image-bg-blur",
+      "purpose": "Blur the background while keeping the subject sharp.",
+      "ideal_for": [
+        "image background blur"
+      ]
+    },
+    {
+      "name": "Image Upscaler",
+      "url": "https://golana.online/tool/image-upscaler",
+      "purpose": "Enlarge images 2× or 4× with smooth interpolation.",
+      "ideal_for": [
+        "image upscaler",
+        "upscaler image"
+      ]
+    },
+    {
+      "name": "Image Noise Remover",
+      "url": "https://golana.online/tool/image-denoiser",
+      "purpose": "Reduce grain and noise from photos.",
+      "ideal_for": [
+        "image noise remover"
+      ]
+    },
+    {
+      "name": "Video Frame Extractor",
+      "url": "https://golana.online/tool/video-frame-extractor",
+      "purpose": "Extract frames from a video as images.",
+      "ideal_for": [
+        "video frame extractor"
+      ]
+    },
+    {
+      "name": "Video Stabilizer",
+      "url": "https://golana.online/tool/video-stabilizer",
+      "purpose": "Reduce camera shake in video files.",
+      "ideal_for": [
+        "video stabilizer",
+        "stabilizer video"
+      ]
+    },
+    {
+      "name": "Audio Noise Reduction",
+      "url": "https://golana.online/tool/audio-noise-reduction",
+      "purpose": "Clean background noise from audio recordings.",
+      "ideal_for": [
+        "audio noise reduction"
       ]
     },
     {
@@ -651,24 +750,6 @@
       ]
     },
     {
-      "name": "Text Case Converter",
-      "url": "https://golana.online/tool/text-case",
-      "purpose": "Change text capitalization styles.",
-      "ideal_for": [
-        "text case converter",
-        "convert text case"
-      ]
-    },
-    {
-      "name": "Word Counter",
-      "url": "https://golana.online/tool/word-counter",
-      "purpose": "Count words, characters, sentences.",
-      "ideal_for": [
-        "word counter",
-        "counter word"
-      ]
-    },
-    {
       "name": "Timer & Pomodoro",
       "url": "https://golana.online/tool/timer-pomodoro",
       "purpose": "Focus timer with Pomodoro cycles.",
@@ -687,47 +768,45 @@
       ]
     },
     {
-      "name": "Text Encryption Tool",
-      "url": "https://golana.online/tool/text-encryption",
-      "purpose": "Encrypt and decrypt text with a key.",
+      "name": "Text Pattern Extractor",
+      "url": "https://golana.online/tool/text-pattern-extractor",
+      "purpose": "Extract emails, URLs, phone numbers, and dates from text.",
       "ideal_for": [
-        "text encryption tool"
+        "text pattern extractor"
       ]
     },
     {
-      "name": "IP Lookup",
-      "url": "https://golana.online/tool/ip-lookup",
-      "purpose": "Look up geolocation data for any IP.",
+      "name": "Text Summarizer (Non-AI)",
+      "url": "https://golana.online/tool/text-summarizer-rule-based",
+      "purpose": "Summarize text using TF-IDF keyword extraction and sentence scoring.",
       "ideal_for": [
-        "ip lookup",
-        "lookup ip"
+        "text summarizer (non-ai)"
       ]
     },
     {
-      "name": "URL Shortener",
-      "url": "https://golana.online/tool/url-shortener",
-      "purpose": "Shorten long URLs instantly.",
+      "name": "Text Similarity Checker",
+      "url": "https://golana.online/tool/text-similarity-checker",
+      "purpose": "Compare two texts using TF-IDF and cosine similarity.",
       "ideal_for": [
-        "url shortener",
-        "shortener url"
+        "text similarity checker"
       ]
     },
     {
-      "name": "Visitor Counter",
-      "url": "https://golana.online/tool/visitor-counter",
-      "purpose": "Track page visits in local storage.",
+      "name": "Image EXIF Viewer",
+      "url": "https://golana.online/tool/image-exif-viewer",
+      "purpose": "Read EXIF metadata from photos and download cleaned images.",
       "ideal_for": [
-        "visitor counter",
-        "counter visitor"
+        "image exif viewer"
       ]
     },
     {
-      "name": "Session Timer",
-      "url": "https://golana.online/tool/session-timer",
-      "purpose": "Track time spent on tasks.",
+      "name": "Barcode Generator",
+      "url": "https://golana.online/tool/barcode-generator",
+      "purpose": "Generate EAN-13, UPC-A, and Code128 barcodes as PNG or SVG.",
       "ideal_for": [
-        "session timer",
-        "timer session"
+        "barcode generator",
+        "generate barcode",
+        "generator barcode"
       ]
     },
     {
@@ -972,6 +1051,33 @@
       ]
     },
     {
+      "name": "CSV Viewer",
+      "url": "https://golana.online/tool/csv-viewer",
+      "purpose": "View and sort CSV data in a table.",
+      "ideal_for": [
+        "csv viewer",
+        "viewer csv"
+      ]
+    },
+    {
+      "name": "IP Lookup",
+      "url": "https://golana.online/tool/ip-lookup",
+      "purpose": "Look up geolocation data for any IP.",
+      "ideal_for": [
+        "ip lookup",
+        "lookup ip"
+      ]
+    },
+    {
+      "name": "Visitor Counter",
+      "url": "https://golana.online/tool/visitor-counter",
+      "purpose": "Track page visits in local storage.",
+      "ideal_for": [
+        "visitor counter",
+        "counter visitor"
+      ]
+    },
+    {
       "name": "World Clock",
       "url": "https://golana.online/tool/world-clock",
       "purpose": "See times across major cities.",
@@ -1041,6 +1147,15 @@
       "ideal_for": [
         "habit tracker",
         "tracker habit"
+      ]
+    },
+    {
+      "name": "Session Timer",
+      "url": "https://golana.online/tool/session-timer",
+      "purpose": "Track time spent on tasks.",
+      "ideal_for": [
+        "session timer",
+        "timer session"
       ]
     },
     {
@@ -1588,13 +1703,12 @@
       ]
     },
     {
-      "name": "Invoice Generator",
-      "url": "https://golana.online/tool/invoice-generator",
-      "purpose": "Create and download invoices.",
+      "name": "URL Shortener",
+      "url": "https://golana.online/tool/url-shortener",
+      "purpose": "Shorten long URLs instantly.",
       "ideal_for": [
-        "invoice generator",
-        "generate invoice",
-        "generator invoice"
+        "url shortener",
+        "shortener url"
       ]
     },
     {
@@ -1672,6 +1786,40 @@
       "purpose": "Count down days to your exams.",
       "ideal_for": [
         "exam countdown tool"
+      ]
+    },
+    {
+      "name": "Essay Structure Analyzer",
+      "url": "https://golana.online/tool/essay-structure-analyzer",
+      "purpose": "Detect paragraph roles and get structure suggestions.",
+      "ideal_for": [
+        "essay structure analyzer"
+      ]
+    },
+    {
+      "name": "Citation Formatter",
+      "url": "https://golana.online/tool/citation-formatter",
+      "purpose": "Format references in APA, MLA, and Chicago styles.",
+      "ideal_for": [
+        "citation formatter",
+        "formatter citation"
+      ]
+    },
+    {
+      "name": "Reading Level Checker",
+      "url": "https://golana.online/tool/reading-level-checker",
+      "purpose": "Analyze text difficulty with Flesch-Kincaid, Gunning Fog, and SMOG scores.",
+      "ideal_for": [
+        "reading level checker"
+      ]
+    },
+    {
+      "name": "Flashcard Auto-Generator",
+      "url": "https://golana.online/tool/flashcard-auto-generator",
+      "purpose": "Generate ready-to-study flashcard decks from built-in datasets.",
+      "ideal_for": [
+        "flashcard auto-generator",
+        "auto-generator flashcard"
       ]
     },
     {
@@ -1800,12 +1948,29 @@
       ]
     },
     {
-      "name": "CSV Viewer",
-      "url": "https://golana.online/tool/csv-viewer",
-      "purpose": "View and sort CSV data in a table.",
+      "name": "Text Case Converter",
+      "url": "https://golana.online/tool/text-case",
+      "purpose": "Change text capitalization styles.",
       "ideal_for": [
-        "csv viewer",
-        "viewer csv"
+        "text case converter",
+        "convert text case"
+      ]
+    },
+    {
+      "name": "Word Counter",
+      "url": "https://golana.online/tool/word-counter",
+      "purpose": "Count words, characters, sentences.",
+      "ideal_for": [
+        "word counter",
+        "counter word"
+      ]
+    },
+    {
+      "name": "Text Encryption Tool",
+      "url": "https://golana.online/tool/text-encryption",
+      "purpose": "Encrypt and decrypt text with a key.",
+      "ideal_for": [
+        "text encryption tool"
       ]
     },
     {
@@ -2042,6 +2207,50 @@
       ]
     },
     {
+      "name": "Invoice Generator",
+      "url": "https://golana.online/tool/invoice-generator",
+      "purpose": "Create and download invoices.",
+      "ideal_for": [
+        "invoice generator",
+        "generate invoice",
+        "generator invoice"
+      ]
+    },
+    {
+      "name": "Invoice Validator",
+      "url": "https://golana.online/tool/invoice-validator",
+      "purpose": "Audit invoice totals, taxes, discounts, and line items.",
+      "ideal_for": [
+        "invoice validator",
+        "validator invoice"
+      ]
+    },
+    {
+      "name": "Inventory Forecast",
+      "url": "https://golana.online/tool/inventory-forecast",
+      "purpose": "Project stock depletion and recommended reorder quantities.",
+      "ideal_for": [
+        "inventory forecast",
+        "forecast inventory"
+      ]
+    },
+    {
+      "name": "Profit Projection Tool",
+      "url": "https://golana.online/tool/profit-projection-tool",
+      "purpose": "Project revenue, costs, margins, and business profit.",
+      "ideal_for": [
+        "profit projection tool"
+      ]
+    },
+    {
+      "name": "Business KPI Visualizer",
+      "url": "https://golana.online/tool/business-kpi-visualizer",
+      "purpose": "Visualize revenue, expenses, conversion, retention, and margins.",
+      "ideal_for": [
+        "business kpi visualizer"
+      ]
+    },
+    {
       "name": "Chore Chart Generator",
       "url": "https://golana.online/tool/chore-chart-generator",
       "purpose": "Create chore charts for the week.",
@@ -2090,6 +2299,40 @@
       "ideal_for": [
         "name coloring sheet generator",
         "generate name coloring sheet"
+      ]
+    },
+    {
+      "name": "Reward Chart Generator",
+      "url": "https://golana.online/tool/reward-chart-generator",
+      "purpose": "Create customizable weekly reward charts with icons and colors.",
+      "ideal_for": [
+        "reward chart generator",
+        "generate reward chart"
+      ]
+    },
+    {
+      "name": "Homework Timer",
+      "url": "https://golana.online/tool/homework-timer",
+      "purpose": "Focus timer with countdown, stopwatch, and break modes for study sessions.",
+      "ideal_for": [
+        "homework timer",
+        "timer homework"
+      ]
+    },
+    {
+      "name": "Kids Routine Planner",
+      "url": "https://golana.online/tool/kids-routine-planner",
+      "purpose": "Build drag-and-drop morning, afternoon, and bedtime routines.",
+      "ideal_for": [
+        "kids routine planner"
+      ]
+    },
+    {
+      "name": "Kids Drawing Filter",
+      "url": "https://golana.online/tool/kids-drawing-filter",
+      "purpose": "Apply fun cartoon, rainbow, and neon filters to drawings.",
+      "ideal_for": [
+        "kids drawing filter"
       ]
     },
     {

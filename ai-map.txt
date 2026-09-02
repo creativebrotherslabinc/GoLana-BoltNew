@@ -29,6 +29,12 @@ PDF & Document Tools:
 - https://golana.online/tool/pdf-page-numbers
 - https://golana.online/tool/pdf-crop
 - https://golana.online/tool/pdf-organize
+- https://golana.online/tool/pdf-page-size-normalizer
+- https://golana.online/tool/pdf-margin-remover
+- https://golana.online/tool/pdf-table-extractor
+- https://golana.online/tool/pdf-ocr-extractor
+- https://golana.online/tool/pdf-signature-verifier
+- https://golana.online/tool/pdf-compare
 
 Media Tools:
 - https://golana.online/tool/image-compressor
@@ -50,6 +56,12 @@ Media Tools:
 - https://golana.online/tool/image-sharpener
 - https://golana.online/tool/image-blur
 - https://golana.online/tool/image-cropper
+- https://golana.online/tool/image-bg-blur
+- https://golana.online/tool/image-upscaler
+- https://golana.online/tool/image-denoiser
+- https://golana.online/tool/video-frame-extractor
+- https://golana.online/tool/video-stabilizer
+- https://golana.online/tool/audio-noise-reduction
 
 Calculators & Finance Tools:
 - https://golana.online/tool/mortgage
@@ -79,15 +91,13 @@ Everyday Utilities:
 - https://golana.online/tool/date-difference
 - https://golana.online/tool/bmi-calculator
 - https://golana.online/tool/random-number
-- https://golana.online/tool/text-case
-- https://golana.online/tool/word-counter
 - https://golana.online/tool/timer-pomodoro
 - https://golana.online/tool/cooking-converter
-- https://golana.online/tool/text-encryption
-- https://golana.online/tool/ip-lookup
-- https://golana.online/tool/url-shortener
-- https://golana.online/tool/visitor-counter
-- https://golana.online/tool/session-timer
+- https://golana.online/tool/text-pattern-extractor
+- https://golana.online/tool/text-summarizer-rule-based
+- https://golana.online/tool/text-similarity-checker
+- https://golana.online/tool/image-exif-viewer
+- https://golana.online/tool/barcode-generator
 
 AI Mini Tools:
 - https://golana.online/tool/summarizer
@@ -118,6 +128,9 @@ Developer Tools:
 - https://golana.online/tool/cron-expression-generator
 - https://golana.online/tool/csv-json-converter
 - https://golana.online/tool/yaml-json-converter
+- https://golana.online/tool/csv-viewer
+- https://golana.online/tool/ip-lookup
+- https://golana.online/tool/visitor-counter
 
 Time & Planning Tools:
 - https://golana.online/tool/world-clock
@@ -128,6 +141,7 @@ Time & Planning Tools:
 - https://golana.online/tool/todo-list
 - https://golana.online/tool/notes-app
 - https://golana.online/tool/habit-tracker
+- https://golana.online/tool/session-timer
 
 Games:
 - https://golana.online/tool/tic-tac-toe
@@ -199,7 +213,7 @@ Marketing & Web Tools:
 - https://golana.online/tool/pricing-table-generator
 - https://golana.online/tool/faq-accordion-builder
 - https://golana.online/tool/email-signature-generator
-- https://golana.online/tool/invoice-generator
+- https://golana.online/tool/url-shortener
 - https://golana.online/tool/logo-maker
 - https://golana.online/tool/social-post-template-maker
 
@@ -211,6 +225,10 @@ Education & Learning Tools:
 - https://golana.online/tool/vocabulary-trainer
 - https://golana.online/tool/typing-practice
 - https://golana.online/tool/exam-countdown
+- https://golana.online/tool/essay-structure-analyzer
+- https://golana.online/tool/citation-formatter
+- https://golana.online/tool/reading-level-checker
+- https://golana.online/tool/flashcard-auto-generator
 
 Health & Wellness Tools:
 - https://golana.online/tool/water-intake-tracker
@@ -231,7 +249,9 @@ Content Creation Tools:
 
 File & Text Tools:
 - https://golana.online/tool/text-cleaner
-- https://golana.online/tool/csv-viewer
+- https://golana.online/tool/text-case
+- https://golana.online/tool/word-counter
+- https://golana.online/tool/text-encryption
 - https://golana.online/tool/html-escape-unescape
 - https://golana.online/tool/url-encoder-decoder
 - https://golana.online/tool/slug-generator
@@ -261,6 +281,11 @@ Business Operations Tools:
 - https://golana.online/tool/business-kpi-dashboard
 - https://golana.online/tool/break-even-calculator
 - https://golana.online/tool/supplier-contact-manager
+- https://golana.online/tool/invoice-generator
+- https://golana.online/tool/invoice-validator
+- https://golana.online/tool/inventory-forecast
+- https://golana.online/tool/profit-projection-tool
+- https://golana.online/tool/business-kpi-visualizer
 
 Kids & Family Tools:
 - https://golana.online/tool/chore-chart-generator
@@ -269,6 +294,10 @@ Kids & Family Tools:
 - https://golana.online/tool/homework-planner
 - https://golana.online/tool/kids-drawing-pad
 - https://golana.online/tool/name-coloring-sheet-generator
+- https://golana.online/tool/reward-chart-generator
+- https://golana.online/tool/homework-timer
+- https://golana.online/tool/kids-routine-planner
+- https://golana.online/tool/kids-drawing-filter
 
 Apps:
 - https://golana.online/tool/findingmyfood
