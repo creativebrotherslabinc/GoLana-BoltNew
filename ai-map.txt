@@ -35,6 +35,7 @@ PDF & Document Tools:
 - https://golana.online/tool/pdf-ocr-extractor
 - https://golana.online/tool/pdf-signature-verifier
 - https://golana.online/tool/pdf-compare
+- https://golana.online/tool/pdf-repair
 
 Media Tools:
 - https://golana.online/tool/image-compressor
@@ -62,6 +63,9 @@ Media Tools:
 - https://golana.online/tool/video-frame-extractor
 - https://golana.online/tool/video-stabilizer
 - https://golana.online/tool/audio-noise-reduction
+- https://golana.online/tool/image-cartoonizer
+- https://golana.online/tool/audio-equalizer
+- https://golana.online/tool/video-speed-changer
 
 Calculators & Finance Tools:
 - https://golana.online/tool/mortgage
@@ -229,6 +233,8 @@ Education & Learning Tools:
 - https://golana.online/tool/citation-formatter
 - https://golana.online/tool/reading-level-checker
 - https://golana.online/tool/flashcard-auto-generator
+- https://golana.online/tool/equation-solver
+- https://golana.online/tool/chemical-balancer
 
 Health & Wellness Tools:
 - https://golana.online/tool/water-intake-tracker
@@ -269,6 +275,9 @@ File & Text Tools:
 - https://golana.online/tool/line-numbering
 - https://golana.online/tool/text-deduper-pro
 - https://golana.online/tool/text-randomizer
+- https://golana.online/tool/csv-chart-builder
+- https://golana.online/tool/grammar-checker
+- https://golana.online/tool/plagiarism-checker
 
 Business Operations Tools:
 - https://golana.online/tool/inventory-manager
@@ -302,6 +311,8 @@ Kids & Family Tools:
 Apps:
 - https://golana.online/tool/findingmyfood
 - https://golana.online/tool/resume-genie
+- https://golana.online/tool/resume-formatter
+- https://golana.online/tool/wa-client-manager
 
 Crypto Tools:
 - https://golana.online/tool/crypto-portfolio

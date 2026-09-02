@@ -39,6 +39,7 @@
 - [PDF OCR Extractor](https://golana.online/tool/pdf-ocr-extractor): Extract text from scanned PDFs using browser-based OCR.
 - [PDF Signature Verifier](https://golana.online/tool/pdf-signature-verifier): Verify digital signatures and certificate details in a PDF.
 - [PDF Compare](https://golana.online/tool/pdf-compare): Compare two PDFs side-by-side and highlight differences.
+- [PDF Repair Tool](https://golana.online/tool/pdf-repair): Attempt to recover corrupted or damaged PDF files.
 
 ## Media Tools
 
@@ -67,6 +68,9 @@
 - [Video Frame Extractor](https://golana.online/tool/video-frame-extractor): Extract frames from a video as images.
 - [Video Stabilizer](https://golana.online/tool/video-stabilizer): Reduce camera shake in video files.
 - [Audio Noise Reduction](https://golana.online/tool/audio-noise-reduction): Clean background noise from audio recordings.
+- [Image Cartoonizer](https://golana.online/tool/image-cartoonizer): Turn photos into cartoon-style images.
+- [Audio Equalizer](https://golana.online/tool/audio-equalizer): Adjust audio frequencies with a 5-band EQ.
+- [Video Speed Changer](https://golana.online/tool/video-speed-changer): Speed up or slow down video playback.
 
 ## Calculators & Finance Tools
 
@@ -244,6 +248,8 @@
 - [Citation Formatter](https://golana.online/tool/citation-formatter): Format references in APA, MLA, and Chicago styles.
 - [Reading Level Checker](https://golana.online/tool/reading-level-checker): Analyze text difficulty with Flesch-Kincaid, Gunning Fog, and SMOG scores.
 - [Flashcard Auto-Generator](https://golana.online/tool/flashcard-auto-generator): Generate ready-to-study flashcard decks from built-in datasets.
+- [Equation Solver](https://golana.online/tool/equation-solver): Solve linear equations step by step.
+- [Chemical Equation Balancer](https://golana.online/tool/chemical-balancer): Balance chemical equations automatically.
 
 ## Health & Wellness Tools
 
@@ -287,6 +293,9 @@
 - [Line Numbering Tool](https://golana.online/tool/line-numbering): Add sequential line numbers to any text.
 - [Text Deduper Pro](https://golana.online/tool/text-deduper-pro): Advanced duplicate remover with case and trim options.
 - [Text Randomizer](https://golana.online/tool/text-randomizer): Randomize and shuffle lines of text.
+- [CSV Chart Builder](https://golana.online/tool/csv-chart-builder): Create bar, line, and pie charts from CSV data.
+- [Grammar Checker](https://golana.online/tool/grammar-checker): Check text for common grammar and spelling issues.
+- [Plagiarism Checker](https://golana.online/tool/plagiarism-checker): Compare two texts for matching phrases and similarity.
 
 ## Business Operations Tools
 
@@ -323,6 +332,8 @@
 
 - [FindingMyFood](https://golana.online/tool/findingmyfood): Find restaurants near you and let the roulette pick one.
 - [Resume Builder](https://golana.online/tool/resume-genie): Build a clean resume and export it.
+- [Resume Formatter](https://golana.online/tool/resume-formatter): Format resume text into clean templates and export as PDF.
+- [WhatsApp Client Manager](https://golana.online/tool/wa-client-manager): A complete browser-only CRM-style organizer for WhatsApp clients, with private backup/restore, stored entirely on your device.
 
 ## Crypto Tools
 

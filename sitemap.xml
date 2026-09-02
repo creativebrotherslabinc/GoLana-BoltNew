@@ -66,6 +66,7 @@
   <url><loc>https://golana.online/tool/pdf-ocr-extractor</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/pdf-signature-verifier</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/pdf-compare</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://golana.online/tool/pdf-repair</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/image-compressor</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/image-converter</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/image-resizer</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
@@ -91,6 +92,9 @@
   <url><loc>https://golana.online/tool/video-frame-extractor</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/video-stabilizer</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/audio-noise-reduction</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://golana.online/tool/image-cartoonizer</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://golana.online/tool/audio-equalizer</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://golana.online/tool/video-speed-changer</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/mortgage</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/loan</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/interest</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
@@ -238,6 +242,8 @@
   <url><loc>https://golana.online/tool/citation-formatter</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/reading-level-checker</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/flashcard-auto-generator</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://golana.online/tool/equation-solver</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://golana.online/tool/chemical-balancer</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/water-intake-tracker</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/step-counter</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/workout-timer</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
@@ -272,6 +278,9 @@
   <url><loc>https://golana.online/tool/line-numbering</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/text-deduper-pro</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/text-randomizer</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://golana.online/tool/csv-chart-builder</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://golana.online/tool/grammar-checker</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://golana.online/tool/plagiarism-checker</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/inventory-manager</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/simple-crm</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/client-follow-up-tracker</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
@@ -299,6 +308,8 @@
   <url><loc>https://golana.online/tool/kids-drawing-filter</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/findingmyfood</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/resume-genie</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://golana.online/tool/resume-formatter</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://golana.online/tool/wa-client-manager</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/crypto-portfolio</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/crypto-watchlist</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://golana.online/tool/crypto-dca</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>

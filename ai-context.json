@@ -289,6 +289,14 @@
       ]
     },
     {
+      "name": "PDF Repair Tool",
+      "url": "https://golana.online/tool/pdf-repair",
+      "purpose": "Attempt to recover corrupted or damaged PDF files.",
+      "ideal_for": [
+        "pdf repair tool"
+      ]
+    },
+    {
       "name": "Image Compressor",
       "url": "https://golana.online/tool/image-compressor",
       "purpose": "Shrink image files with quality control.",
@@ -512,6 +520,32 @@
       "purpose": "Clean background noise from audio recordings.",
       "ideal_for": [
         "audio noise reduction"
+      ]
+    },
+    {
+      "name": "Image Cartoonizer",
+      "url": "https://golana.online/tool/image-cartoonizer",
+      "purpose": "Turn photos into cartoon-style images.",
+      "ideal_for": [
+        "image cartoonizer",
+        "cartoonizer image"
+      ]
+    },
+    {
+      "name": "Audio Equalizer",
+      "url": "https://golana.online/tool/audio-equalizer",
+      "purpose": "Adjust audio frequencies with a 5-band EQ.",
+      "ideal_for": [
+        "audio equalizer",
+        "equalizer audio"
+      ]
+    },
+    {
+      "name": "Video Speed Changer",
+      "url": "https://golana.online/tool/video-speed-changer",
+      "purpose": "Speed up or slow down video playback.",
+      "ideal_for": [
+        "video speed changer"
       ]
     },
     {
@@ -1823,6 +1857,23 @@
       ]
     },
     {
+      "name": "Equation Solver",
+      "url": "https://golana.online/tool/equation-solver",
+      "purpose": "Solve linear equations step by step.",
+      "ideal_for": [
+        "equation solver",
+        "solver equation"
+      ]
+    },
+    {
+      "name": "Chemical Equation Balancer",
+      "url": "https://golana.online/tool/chemical-balancer",
+      "purpose": "Balance chemical equations automatically.",
+      "ideal_for": [
+        "chemical equation balancer"
+      ]
+    },
+    {
       "name": "Water Intake Tracker",
       "url": "https://golana.online/tool/water-intake-tracker",
       "purpose": "Track daily water intake and goals.",
@@ -2123,6 +2174,32 @@
       ]
     },
     {
+      "name": "CSV Chart Builder",
+      "url": "https://golana.online/tool/csv-chart-builder",
+      "purpose": "Create bar, line, and pie charts from CSV data.",
+      "ideal_for": [
+        "csv chart builder"
+      ]
+    },
+    {
+      "name": "Grammar Checker",
+      "url": "https://golana.online/tool/grammar-checker",
+      "purpose": "Check text for common grammar and spelling issues.",
+      "ideal_for": [
+        "grammar checker",
+        "checker grammar"
+      ]
+    },
+    {
+      "name": "Plagiarism Checker",
+      "url": "https://golana.online/tool/plagiarism-checker",
+      "purpose": "Compare two texts for matching phrases and similarity.",
+      "ideal_for": [
+        "plagiarism checker",
+        "checker plagiarism"
+      ]
+    },
+    {
       "name": "Inventory List Manager",
       "url": "https://golana.online/tool/inventory-manager",
       "purpose": "Track stock levels and item values.",
@@ -2350,6 +2427,23 @@
       "ideal_for": [
         "resume builder",
         "builder resume"
+      ]
+    },
+    {
+      "name": "Resume Formatter",
+      "url": "https://golana.online/tool/resume-formatter",
+      "purpose": "Format resume text into clean templates and export as PDF.",
+      "ideal_for": [
+        "resume formatter",
+        "formatter resume"
+      ]
+    },
+    {
+      "name": "WhatsApp Client Manager",
+      "url": "https://golana.online/tool/wa-client-manager",
+      "purpose": "A complete browser-only CRM-style organizer for WhatsApp clients, with private backup/restore, stored entirely on your device.",
+      "ideal_for": [
+        "whatsapp client manager"
       ]
     },
     {
