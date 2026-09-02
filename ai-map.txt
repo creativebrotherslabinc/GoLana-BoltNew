@@ -313,6 +313,7 @@ Apps:
 - https://golana.online/tool/resume-genie
 - https://golana.online/tool/resume-formatter
 - https://golana.online/tool/wa-client-manager
+- https://golana.online/tool/office-suite-local
 
 Crypto Tools:
 - https://golana.online/tool/crypto-portfolio

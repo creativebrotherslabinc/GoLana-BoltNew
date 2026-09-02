@@ -9,7 +9,7 @@
 - [PDF Splitter](https://golana.online/tool/pdf-splitter): Split a PDF into separate pages or ranges.
 - [PDF Compressor](https://golana.online/tool/pdf-compressor): Reduce PDF file size while keeping quality.
 - [PDF to DOCX](https://golana.online/tool/pdf-to-docx): Convert PDF pages into editable text.
-- [DOCX to PDF](https://golana.online/tool/docx-to-pdf): Convert a text document into a PDF.
+- [DOCX to PDF](https://golana.online/tool/docx-to-pdf): Convert simple DOCX files to PDF in your browser.
 - [TXT to PDF](https://golana.online/tool/txt-to-pdf): Turn plain text files into a clean PDF.
 - [Images to PDF](https://golana.online/tool/images-to-pdf): Combine images into a single PDF.
 - [PDF to Images](https://golana.online/tool/pdf-to-images): Export each PDF page as an image.
@@ -334,6 +334,7 @@
 - [Resume Builder](https://golana.online/tool/resume-genie): Build a clean resume and export it.
 - [Resume Formatter](https://golana.online/tool/resume-formatter): Format resume text into clean templates and export as PDF.
 - [WhatsApp Client Manager](https://golana.online/tool/wa-client-manager): A complete browser-only CRM-style organizer for WhatsApp clients, with private backup/restore, stored entirely on your device.
+- [Local Office Suite](https://golana.online/tool/office-suite-local): A simple, local-only office suite for small documents, spreadsheets, and presentations. Everything stays on your device.
 
 ## Crypto Tools
 

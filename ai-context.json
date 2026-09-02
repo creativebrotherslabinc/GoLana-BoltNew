@@ -43,7 +43,7 @@
     {
       "name": "DOCX to PDF",
       "url": "https://golana.online/tool/docx-to-pdf",
-      "purpose": "Convert a text document into a PDF.",
+      "purpose": "Convert simple DOCX files to PDF in your browser.",
       "ideal_for": [
         "docx to pdf"
       ]
@@ -2444,6 +2444,14 @@
       "purpose": "A complete browser-only CRM-style organizer for WhatsApp clients, with private backup/restore, stored entirely on your device.",
       "ideal_for": [
         "whatsapp client manager"
+      ]
+    },
+    {
+      "name": "Local Office Suite",
+      "url": "https://golana.online/tool/office-suite-local",
+      "purpose": "A simple, local-only office suite for small documents, spreadsheets, and presentations. Everything stays on your device.",
+      "ideal_for": [
+        "local office suite"
       ]
     },
     {
