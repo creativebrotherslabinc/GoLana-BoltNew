@@ -308,6 +308,7 @@ Kids & Family Tools:
 - https://golana.online/tool/homework-timer
 - https://golana.online/tool/kids-routine-planner
 - https://golana.online/tool/kids-drawing-filter
+- https://golana.online/tool/homework-adventure
 
 Apps:
 - https://golana.online/tool/findingmyfood
