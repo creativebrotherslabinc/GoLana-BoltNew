@@ -297,6 +297,15 @@
       ]
     },
     {
+      "name": "Camera Scanner",
+      "url": "https://golana.online/tool/camera-scanner-pdf",
+      "purpose": "Scan documents with your camera and save as a PDF — all in your browser.",
+      "ideal_for": [
+        "camera scanner",
+        "scanner camera"
+      ]
+    },
+    {
       "name": "Image Compressor",
       "url": "https://golana.online/tool/image-compressor",
       "purpose": "Shrink image files with quality control.",

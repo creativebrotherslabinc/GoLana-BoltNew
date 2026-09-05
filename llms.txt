@@ -40,6 +40,7 @@
 - [PDF Signature Verifier](https://golana.online/tool/pdf-signature-verifier): Verify digital signatures and certificate details in a PDF.
 - [PDF Compare](https://golana.online/tool/pdf-compare): Compare two PDFs side-by-side and highlight differences.
 - [PDF Repair Tool](https://golana.online/tool/pdf-repair): Attempt to recover corrupted or damaged PDF files.
+- [Camera Scanner](https://golana.online/tool/camera-scanner-pdf): Scan documents with your camera and save as a PDF — all in your browser.
 
 ## Media Tools
 

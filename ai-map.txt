@@ -36,6 +36,7 @@ PDF & Document Tools:
 - https://golana.online/tool/pdf-signature-verifier
 - https://golana.online/tool/pdf-compare
 - https://golana.online/tool/pdf-repair
+- https://golana.online/tool/camera-scanner-pdf
 
 Media Tools:
 - https://golana.online/tool/image-compressor
