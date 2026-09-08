@@ -1514,6 +1514,15 @@
       ]
     },
     {
+      "name": "Color Circuit",
+      "url": "https://golana.online/tool/color-circuit",
+      "purpose": "Connect matching colored nodes on a grid without crossing paths.",
+      "ideal_for": [
+        "color circuit",
+        "circuit color"
+      ]
+    },
+    {
       "name": "WhatsApp Message Template Builder",
       "url": "https://golana.online/tool/wa-message-template",
       "purpose": "Build structured message templates.",

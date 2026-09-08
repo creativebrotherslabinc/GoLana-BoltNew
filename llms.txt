@@ -196,6 +196,7 @@
 - [Word Ladder](https://golana.online/tool/word-ladder): Change one letter at a time to reach the target.
 - [Logic Puzzle](https://golana.online/tool/logic-puzzle): Solve a mini logic puzzle from clues.
 - [Color Match](https://golana.online/tool/color-match): Match the target color with sliders.
+- [Color Circuit](https://golana.online/tool/color-circuit): Connect matching colored nodes on a grid without crossing paths.
 
 ## WhatsApp Business Tools
 

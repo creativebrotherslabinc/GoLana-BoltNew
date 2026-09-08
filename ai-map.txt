@@ -185,6 +185,7 @@ Games:
 - https://golana.online/tool/word-ladder
 - https://golana.online/tool/logic-puzzle
 - https://golana.online/tool/color-match
+- https://golana.online/tool/color-circuit
 
 WhatsApp Business Tools:
 - https://golana.online/tool/wa-message-template
