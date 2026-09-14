@@ -310,6 +310,7 @@ Kids & Family Tools:
 - https://golana.online/tool/kids-routine-planner
 - https://golana.online/tool/kids-drawing-filter
 - https://golana.online/tool/homework-adventure
+- https://golana.online/tool/homework-country
 
 Apps:
 - https://golana.online/tool/findingmyfood
