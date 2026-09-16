@@ -2431,19 +2431,12 @@
       ]
     },
     {
-      "name": "Kids Homework Adventure",
-      "url": "https://golana.online/tool/homework-adventure",
-      "purpose": "Daily learning exercises for ages 3–12 with progress tracking, rewards, and difficulty that grows with your child.",
+      "name": "Daily Homework",
+      "url": "https://golana.online/tool/daily-homework",
+      "purpose": "A complete privacy-first, database-free daily homework platform for ages 5–12. Curriculum-aware, 19 countries, 4 languages, offline-ready, with streaks, badges, coins, and parent rewards.",
       "ideal_for": [
-        "kids homework adventure"
-      ]
-    },
-    {
-      "name": "Homework by Country",
-      "url": "https://golana.online/tool/homework-country",
-      "purpose": "Country-aware daily homework for ages 5–12 with regional curriculum profiles, school calendars, holidays, and weekend extras.",
-      "ideal_for": [
-        "homework by country"
+        "daily homework",
+        "homework daily"
       ]
     },
     {
