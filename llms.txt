@@ -183,6 +183,8 @@
 - [Trivia Quiz](https://golana.online/tool/trivia-quiz): Test your knowledge with quiz questions.
 - [Card Matching Game](https://golana.online/tool/card-matching): Find all matching pairs of cards.
 - [Simple Platformer](https://golana.online/tool/platformer): Jump across platforms on a canvas.
+- [Puzzle Adventure](https://golana.online/tool/puzzle-adventure): A vector-based puzzle platformer with 100 levels, 6 worlds, mascot evolution, daily challenges, and story chapters.
+- [DeadWord: Local Word Realms](https://golana.online/tool/deadword): A fully offline word-ladder puzzle adventure with 6 realms, 100 levels, daily challenges, coins, cosmetics, and local progress export/import.
 - [Brick Breaker](https://golana.online/tool/brick-breaker): Break every brick on screen.
 - [Aim Trainer](https://golana.online/tool/aim-trainer): Click targets as fast as you can.
 - [Reaction Time Tester](https://golana.online/tool/reaction-time): Test how fast you react.

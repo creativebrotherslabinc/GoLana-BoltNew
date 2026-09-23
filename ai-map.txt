@@ -172,6 +172,8 @@ Games:
 - https://golana.online/tool/trivia-quiz
 - https://golana.online/tool/card-matching
 - https://golana.online/tool/platformer
+- https://golana.online/tool/puzzle-adventure
+- https://golana.online/tool/deadword
 - https://golana.online/tool/brick-breaker
 - https://golana.online/tool/aim-trainer
 - https://golana.online/tool/reaction-time

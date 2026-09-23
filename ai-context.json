@@ -1399,6 +1399,23 @@
       ]
     },
     {
+      "name": "Puzzle Adventure",
+      "url": "https://golana.online/tool/puzzle-adventure",
+      "purpose": "A vector-based puzzle platformer with 100 levels, 6 worlds, mascot evolution, daily challenges, and story chapters.",
+      "ideal_for": [
+        "puzzle adventure",
+        "adventure puzzle"
+      ]
+    },
+    {
+      "name": "DeadWord: Local Word Realms",
+      "url": "https://golana.online/tool/deadword",
+      "purpose": "A fully offline word-ladder puzzle adventure with 6 realms, 100 levels, daily challenges, coins, cosmetics, and local progress export/import.",
+      "ideal_for": [
+        "deadword: local word realms"
+      ]
+    },
+    {
       "name": "Brick Breaker",
       "url": "https://golana.online/tool/brick-breaker",
       "purpose": "Break every brick on screen.",
